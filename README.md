@@ -1,4 +1,4 @@
-<b>develop your own smart contract in solidity</b>
+<b>Develop smart contract in solidity</b>
 
 ## Install Truffle and Ganache CLI
 ```sudo npm install -g ganache-cli truffle```
